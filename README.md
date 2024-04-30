@@ -10,7 +10,7 @@
 * NodeJS
 * Json-server
 
-## Tecnologias utilizadas en el projeto
+## Tecnologias utilizadas en el proyeto
 * HTML
 * CSS
 
